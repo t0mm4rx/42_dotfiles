@@ -8,7 +8,7 @@ I'll keep it updated.
 
 ## Installation
 
-Please first make sure iTerm2 is installed.
+Please first make sure iTerm2 and brew is installed.
 
 Run install.sh :
 ```sh

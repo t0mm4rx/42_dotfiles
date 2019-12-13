@@ -13,3 +13,6 @@ cp ./.vimrc ~/
 
 # Config of iTerm2
 cp ./Chalkboard.itermcolors ~/
+
+# Install of htop
+brew install htop
